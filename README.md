@@ -16,14 +16,9 @@ Using location data, web scraping, geospatial analysis, and unsupervised machine
 ## Repository Structure
 
 ```
-.
+├── requirements.txt
 ├── Capstone_The-Battle-of-the-Neighborhoods.ipynb   ← Main analysis notebook
 ├── README.md                                         ← This file
-├── requirements.txt                                  ← Python dependencies
-└── assets/
-    ├── venues_per_borough.png                        ← Bar chart output
-    └── elbow_plot.png                                ← KMeans elbow curve
-```
 
 ---
 
