@@ -20,10 +20,7 @@ Using location data from the **Google Places API**, web scraping, geospatial ana
 ├── Capstone_The-Battle-of-the-Neighborhoods.ipynb   ← Main analysis notebook
 ├── README.md                                         ← This file
 ├── requirements.txt                                  ← Python dependencies
-└── assets/
-    ├── venues_per_borough.png                        ← Venue count bar chart
-    ├── avg_rating_per_borough.png                    ← Google rating bar chart
-    └── elbow_plot.png                                ← KMeans elbow curve
+
 ```
 
 ---
